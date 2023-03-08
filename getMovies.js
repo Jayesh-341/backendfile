@@ -1,4 +1,10 @@
-export const movies=
+// const http  = require('http');
+// const app = require('./getMovies.js');
+
+// const port  = process.env.PORT || 5000;
+// const server = http.createServer(app);
+
+const movies=
 
  [
 {
@@ -92,3 +98,5 @@ export const movies=
     liked: true
 },      
 ]
+
+console.log(movies);

@@ -2,5 +2,24 @@
   "dependencies": {
     "module": "^1.1.0",
     "node": "^19.6.1"
-  }
+  },
+  "name": "backend-file",
+  "version": "1.0.0",
+  "description": "one backend file",
+  "main": "getMovies.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node getMovies.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayesh-341/backendfile.git"
+  },
+  "author": "Jayesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayesh-341/backendfile/issues"
+  },
+  "homepage": "https://github.com/Jayesh-341/backendfile#readme"
 }
